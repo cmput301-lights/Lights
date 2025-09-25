@@ -1,5 +1,7 @@
 package com.example.lights;
 
-public class Pentagon extends Shape{
+import android.graphics.drawable.shapes.Shape;
+
+public class Pentagon extends Shape {
 
 }
