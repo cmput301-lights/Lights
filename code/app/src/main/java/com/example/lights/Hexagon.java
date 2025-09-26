@@ -1,9 +1,6 @@
 package com.example.lights;
 
-public abstract class Shape {
+public class Hexagon extends Shape {
     private int x;
     private int y;
-
-    
-
 }
