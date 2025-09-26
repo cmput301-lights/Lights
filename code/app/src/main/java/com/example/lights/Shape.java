@@ -3,5 +3,6 @@ package com.example.lights;
 public abstract class Shape {
     private int x;
     private int y;
-    private String color = "bluey blue";
+
+    private String color = "Indigo";
 }
